@@ -7,3 +7,6 @@
 ### The model can be further improved, by tuning hyperparameters and changing the number of layers or neurons. 
 
 ### I preferred going deeper into convolutional neural networks architectures.
+
+![Model Architecture](architecture.png)
+

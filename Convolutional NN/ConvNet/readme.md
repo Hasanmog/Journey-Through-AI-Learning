@@ -8,5 +8,5 @@
 
 ### I preferred going deeper into convolutional neural networks architectures.
 
-![Model Architecture](architecture.png)
+![Model Architecture](Architecture.png)
 

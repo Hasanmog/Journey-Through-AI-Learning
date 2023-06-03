@@ -9,6 +9,7 @@
 In this section, you'll find a collection of small projects, experiments, and exploratory code that I worked on during the initial stages of my AI learning journey. These projects serve as valuable learning experiences and allow for experimentation with different AI concepts.
 
 ⚡️ Deep Learning Specialization Course
+
 In this section, you'll find code and resources related to the deep learning specialization course that I completed. It covers various topics such as neural networks, convolutional networks, recurrent networks, and more.
 
 [Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)

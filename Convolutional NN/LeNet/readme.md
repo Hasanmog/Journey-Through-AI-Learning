@@ -2,4 +2,4 @@ This project is about using the simple LeNet architecture to detect handwritten 
 
 The model gave 97% validation accuracy and 97.6% test accuracy.
 
-![Model Architecture](LeNet for Digit Recognition.png)
+![Model Architecture](Convolutional NN/LeNet/LeNet for Digit Recognition.png)

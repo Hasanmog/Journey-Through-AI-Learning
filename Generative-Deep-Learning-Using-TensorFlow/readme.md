@@ -1,0 +1,1 @@
+This folder contains all the Labs and Assignments for the Generative Deep Learning using TensorFlow course on coursera by DeepLearning.AI 

@@ -17,7 +17,7 @@ The challenge was to employ binary classification techniques to predict a patien
 
 **Evaluation Metric**: Area under the ROC curve between the predicted probability and the observed target.
 
-### Repository Contents:
+### Folder Contents:
 
 - **Training Notebooks**:
   - [Logistic Regression](https://github.com/Hasanmog/Journey-Through-AI-Learning/blob/main/Kaggle_Comp/Binary%20Prediction%20of%20Smoker%20Status%20using%20Bio-Signals/LogisticReg.ipynb)

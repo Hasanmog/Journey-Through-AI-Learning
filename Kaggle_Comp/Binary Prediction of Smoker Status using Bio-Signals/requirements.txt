@@ -1,0 +1,7 @@
+cd G:\kaggle_comp>
+python -m venv smoke
+smoke/Scripts/activate
+(smoke) pip install ipykernel
+(smoke) python -m ipykernel install --user--name=smoke
+(smoke) pip install pandas numpy matplotlib
+(smoke) pip install torch torchvision

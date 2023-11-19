@@ -5,28 +5,27 @@
 
 ## Sections:
 
-### Exploration Tutorial
-In this section, you'll find a collection of small projects, experiments, and exploratory code that I worked on during the initial stages of my AI learning journey. These projects serve as valuable learning experiences and allow for experimentation with different AI concepts.
+### AI Playground 🎲
+A collection of beginner-friendly AI projects. 
 
-⚡️ Deep Learning Specialization Course
+### Convolutional NN 🔍
+Experiments with various CNN architectures. Dive into the world of deep learning and image processing!
 
-In this section, you'll find code and resources related to the deep learning specialization course that I completed. It covers various topics such as neural networks, convolutional networks, recurrent networks, and more.
+### Courses_taken 📚
+Materials and notes from AI courses I've embarked on. 
 
-[Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+### Generative-AI 🎨
+Exploring the cutting edge of AI with generative models like GANs and diffusion models. Witness AI creativity at its best!
 
-⭐️ Deep Learning AI TensorFlow Developer Professional Certificate
-Here, you can find projects and materials related to the TensorFlow specialization course. It includes TensorFlow tutorials, implementation of deep learning models using TensorFlow, and practical exercises.
+### Kaggle_comp 🏆
+My forays into Kaggle competitions. Challenges, solutions, and learnings - it's all here!
 
-[Coursera TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
+### Pytorch_tutorial 🔥
+Scripts and tutorials from my journey of mastering PyTorch. 
 
-🔥 PyTorch Tutorial
-This section focuses on PyTorch, a popular deep learning framework. It contains tutorials, code examples, and projects implemented using PyTorch.
+Happy Learning and Exploring! 🚀
 
-📚 Dataset
-The dataset folder contains the datasets used in the projects and tutorials within this repository. It provides the necessary data to run and reproduce the experiments.
-
-Feel free to explore the different sections, experiment with the code, and embark on your own AI learning journey!
-
+# Crafted with 💻 and ❤️ by Hasan Moughnieh
 
 
 

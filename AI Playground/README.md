@@ -5,6 +5,8 @@ The `AI-playground` folder is a collection of experimental scripts and Jupyter n
 
 In other words , I'm was playing with ML :)
 
+Ofcourse , most probably they're not optimal :p
+
 ## Note 
 I may have used different resources for help such as blogs , youtube videos , chatgpt , ...
 

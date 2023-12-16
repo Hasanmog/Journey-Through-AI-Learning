@@ -5,7 +5,7 @@ A foundational online program by machine learning pioneer Andrew Ng.
 
 Taken on [Coursera](https://www.coursera.org/) by [DeepLearning.AI](https://www.deeplearning.ai)
 
-[Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+[Coursera Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
 
 ⭐️ Deep Learning AI TensorFlow Developer Professional Certificate
  It includes TensorFlow tutorials, implementation of deep learning models using TensorFlow, and practical exercises.
@@ -19,4 +19,4 @@ A course that acted as an introduction to the concept and implementation of tren
 
 Taken on [Coursera](https://www.coursera.org/) , by [DeepLearning.AI](https://www.deeplearning.ai)
 
-
+[Generative Deep Learning with TensorFlow](https://www.coursera.org/learn/generative-deep-learning-with-tensorflow)

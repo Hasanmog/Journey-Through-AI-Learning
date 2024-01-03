@@ -1,4 +1,4 @@
-This folder contains a notebook with my work on the book "Deep Learning With Pyhton" Book by "François Chollet" .
+This folder contains a notebook with my work on the book "Deep Learning With Pyhton 2nd edition" Book by "François Chollet" .
 
 
 
